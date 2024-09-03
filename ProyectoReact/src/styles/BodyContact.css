@@ -8,5 +8,11 @@ table {
 td, th {
     border: black 1px solid;
     padding: 15px;
-
 }
+
+.divPrincipal{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+}
+
