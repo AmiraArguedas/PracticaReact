@@ -1,12 +1,12 @@
 import './App.css'
+import Routing from '../src/routes/Routing'
 
 function App() {
 
   return (
     <>
-      <h1>Pagina Principal / App.jsx</h1>
       <div>
-
+          <Routing />
       </div>
     </>
   )
