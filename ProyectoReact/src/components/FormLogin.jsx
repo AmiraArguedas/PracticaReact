@@ -1,8 +1,11 @@
 import React from 'react'
+import '../styles/FormLogin.css'
 
 function FormLogin() {
   return (
-    <div>FormLogin</div>
+    <div className='divFormLogin'>
+
+    </div>
   )
 }
 

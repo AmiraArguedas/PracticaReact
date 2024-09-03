@@ -1,0 +1,21 @@
+.divFormRegistro{
+    background-color: rgb(255, 255, 255);
+}
+
+.inputRegistro{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    border-color: black;
+    border-radius: 5px;
+    padding: 5px;
+    text-align: center;
+}
+.botonRegistro {
+    background-color: rgb(255, 0, 0);
+    letter-spacing: 1px;
+    border-radius: 5px;
+    height: 40px;
+    width: 200px;
+    box-shadow: 5px 5px 8px rgb(0, 0, 0,.4);
+    transform: scale(1.02);
+}
