@@ -1,0 +1,9 @@
+.divFooter{
+    background-color: rgb(255, 255, 255);
+    color: rgb(119, 119, 119);
+    height: 70px;
+    width: 100%;
+    margin-top: 250px;
+    text-align: center;
+    align-content: center;
+}
