@@ -1,7 +1,7 @@
 import React from 'react'
 import Header from "../components/Header";
-import Footer from "../components/Footer";
-import BodyAboutUs from "../components/BodyAboutUs"
+import BodyAboutUs from "../components/BodyAboutUs";
+import Footer from "../components/Footer"
 
 function AboutUs() {
   return (

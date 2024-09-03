@@ -2,7 +2,9 @@ import React from 'react'
 
 function FormRegister() {
   return (
-    <div>FormRegister</div>
+
+    <div>
+    </div>
   )
 }
 
